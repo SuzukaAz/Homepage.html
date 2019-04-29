@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset ="UTF-8"
+	<title>Homepage</title>
+</head>
+<body>
+<h1 >Suzuka</h1>
+<!--This is a title for this homepage-->
+<br>
+<h2>About me</h2>
+<!--This is a first section and about me-->
+<br>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Study</h2>
+<!--about what am I studying-->
+<br>
+<h2>Why this</h2>
+<!--Why i choose this subject -->
+<br>
+<h2>Future</h2>
+<!--What I wanna do in the future with this skill-->
+<br>
+<h2>Conclusion</h2>
+<!--Thx for everyone who read this Homapage-->
+<br>
+</body>
+</html>
